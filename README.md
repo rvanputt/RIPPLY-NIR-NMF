@@ -31,7 +31,7 @@ Main folder (base path)
 ```
 
 # Usage
-1. Place all files in single folder and run code to process example data.
+1. Place all files in single folder, extract example data, and run code to process.
 2. Settings can be changed on lines 73-101 (see in-line comments for detail).
 
 # Requirements

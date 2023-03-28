@@ -32,7 +32,7 @@ Main folder (base path)
 
 # Usage
 1. Place all files in single folder, extract example data, and run code to process.
-2. Settings can be changed on lines 73-101 (see in-line comments for detail).
+2. Settings can be changed on lines 78-102 (see in-line comments for detail).
 
 # Requirements
 ```

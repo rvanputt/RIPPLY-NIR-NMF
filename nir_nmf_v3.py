@@ -32,7 +32,7 @@ Main folder (base path)
 Required input: 
     1.  Base path
     2.  Experiment ID to analyze (subfolder in base path folder)
-    3.  Settings (see SETTINGS section below, lines 73-101)
+    3.  Settings (see SETTINGS section below, lines 74-102)
 
 Optional input:
     1.  Reference spectra (OPUS file format)
@@ -45,8 +45,9 @@ Output:
 Required packages:
     1.  brukeropusreader 1.3.9 (conda install -c spectrocat brukeropusreader)
     2.  configparser 5.3.0 (pip install configparser)
-    3.  nippy 1.0 (pip install git+https://github.com/UEF-BBC/nippy.git)
-    4.  sklearn 1.0.2+
+    3.  Git 2.34.1+ (conda install -c anaconda git)
+    4.  nippy 1.0 (pip install git+https://github.com/UEF-BBC/nippy.git)
+    5.  sklearn 1.0.2+
 
 Required local functions:
     1.  opus_concat_v3.py

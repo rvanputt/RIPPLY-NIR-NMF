@@ -38,6 +38,7 @@ Main folder (base path)
 ```
 brukeropusreader 1.3.9 (conda install -c spectrocat brukeropusreader)
 configparser 5.3.0 (pip install configparser)
+Git 2.34.1+ (conda install -c anaconda git)
 nippy 1.0 (pip install git+https://github.com/UEF-BBC/nippy.git)
 sklearn 1.0.2+
 ```
